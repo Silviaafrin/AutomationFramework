@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.portal.cms.TestClass">
+        <methods>
+          <include name="clickingSearchTaxes"/>
+          <include name="quit"/>
+          <include name="clickingSearchButtonTest"/>
+          <include name="clickingSearchForms"/>
+          <include name="logoValidationOfDOR"/>
+          <include name="clickingSearchEditTest"/>
+          <include name="openingURL"/>
+        </methods>
+      </class> <!-- com.portal.cms.TestClass -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

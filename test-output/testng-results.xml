@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-30T19:01:52 EDT" name="Default suite" finished-at="2022-09-30T19:02:12 EDT" duration-ms="19570">
+    <groups>
+    </groups>
+    <test started-at="2022-09-30T19:01:52 EDT" name="Default test" finished-at="2022-09-30T19:02:12 EDT" duration-ms="19570">
+      <class name="com.portal.cms.TestClass">
+        <test-method is-config="true" signature="openingURL()[pri:0, instance:com.portal.cms.TestClass@29215f06]" started-at="2022-09-30T19:01:52 EDT" name="openingURL" finished-at="2022-09-30T19:01:56 EDT" duration-ms="3805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingURL -->
+        <test-method signature="logoValidationOfDOR()[pri:1, instance:com.portal.cms.TestClass@29215f06]" started-at="2022-09-30T19:01:56 EDT" name="logoValidationOfDOR" finished-at="2022-09-30T19:01:59 EDT" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoValidationOfDOR -->
+        <test-method signature="clickingSearchButtonTest()[pri:2, instance:com.portal.cms.TestClass@29215f06]" started-at="2022-09-30T19:01:59 EDT" name="clickingSearchButtonTest" finished-at="2022-09-30T19:02:02 EDT" duration-ms="3136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingSearchButtonTest -->
+        <test-method signature="clickingSearchEditTest()[pri:3, instance:com.portal.cms.TestClass@29215f06]" started-at="2022-09-30T19:02:02 EDT" name="clickingSearchEditTest" finished-at="2022-09-30T19:02:07 EDT" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingSearchEditTest -->
+        <test-method signature="clickingSearchTaxes()[pri:4, instance:com.portal.cms.TestClass@29215f06]" started-at="2022-09-30T19:02:07 EDT" name="clickingSearchTaxes" finished-at="2022-09-30T19:02:11 EDT" duration-ms="3732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingSearchTaxes -->
+        <test-method signature="clickingSearchForms()[pri:5, instance:com.portal.cms.TestClass@29215f06]" started-at="2022-09-30T19:02:11 EDT" name="clickingSearchForms" finished-at="2022-09-30T19:02:12 EDT" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingSearchForms -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.portal.cms.TestClass@29215f06]" started-at="2022-09-30T19:02:12 EDT" name="quit" finished-at="2022-09-30T19:02:12 EDT" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.portal.cms.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
